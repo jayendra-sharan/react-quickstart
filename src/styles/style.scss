@@ -1,3 +1,21 @@
-h1 {
-  font-size: 56px;
+.customClass {
+  display: block;
+  width: 100%;
+  background-color: #000000;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 14px;
+  height: 20;
+}
+
+footer {
+  background-color: #000000;
+  color: #ffffff;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  position: absolute;
+  text-align: center;
+  height: 40px;
+  line-height: 40px;
 }
